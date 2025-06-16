@@ -13,7 +13,8 @@
 A maioria dos sites revela mais do que deveria, se você souber onde procurar. Você precisa de um script ágil, direto e que explore caminhos comuns em segundos.  
 O que será que está oculto... mas ninguém encontrou ainda?
 </p>
----
+
+<hr>
 
 ## 💡 O que esse script faz?
 
