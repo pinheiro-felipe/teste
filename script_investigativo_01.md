@@ -1,4 +1,4 @@
-<div style="max-width: 870px; margin: auto; word-wrap: break-word;">
+<div style="max-width: 570px; margin: auto; word-wrap: break-word;">
   
 <h1 style="font-size: 24px; font-family: Arial; line-height: 1.15; fonte-weight:bold; border:none">
   🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
