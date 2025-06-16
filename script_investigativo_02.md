@@ -8,8 +8,6 @@ Descobrir manualmente é lento e ineficiente. É como procurar uma agulha no pal
 A maioria dos sites revela mais do que deveria, se você souber onde procurar. Você precisa de um script ágil, direto e que explore caminhos comuns em segundos.  
 O que será que está oculto... mas ninguém encontrou ainda?
 
----
-
 ## 💡 O que esse script faz?
 
 - ✅ Acessa a URL base de um site  
