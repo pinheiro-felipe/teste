@@ -1,4 +1,4 @@
-<div style="max-width: 570px; margin: auto; word-wrap: break-word;">
+<div style="max-width: 570px; margin: auto; word-wrap: break-word; line-height: 1.5">
   
 # 🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 
@@ -7,6 +7,8 @@
 Descobrir manualmente é lento e ineficiente. É como procurar uma agulha no palheiro.  
 A maioria dos sites revela mais do que deveria, se você souber onde procurar. Você precisa de um script ágil, direto e que explore caminhos comuns em segundos.  
 O que será que está oculto... mas ninguém encontrou ainda?
+
+---
 
 ## 💡 O que esse script faz?
 
