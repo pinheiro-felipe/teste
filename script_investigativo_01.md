@@ -143,7 +143,7 @@ Muitos sites deixam diretórios expostos por engano. Este script faz uma varredu
   💾 Outros scripts investigativos
 </h2>
 
-<p style="font-size: 16px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 26px; font-family: Arial; line-height: 1.15; border:none">
 - 🖼️ Baixar todas as imagens de uma página  
 </p>
 <p style="font-size: 14px; font-family: Arial; line-height: 1.15; border:none">
