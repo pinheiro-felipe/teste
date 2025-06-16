@@ -1,4 +1,4 @@
-
+<div style="max-width: 570px; margin: auto; word-wrap: break-word;">
 # 🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 
 ## 🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
@@ -76,3 +76,4 @@ Muitos sites deixam diretórios expostos por engano. Este script faz uma varredu
 - 🔗 Extrair e classificar todos os links de um site  
 - 📄 Converter arquivos PDF para texto automaticamente  
 - 🔐 Identificar portas abertas em uma faixa de IPs
+</div>
