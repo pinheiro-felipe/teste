@@ -1,10 +1,10 @@
 <div style="max-width: 570px; margin: auto; word-wrap: break-word; line-height: 1.5; font-family:Arial, sans-serif">
   
-<h1 style="font-size:32px; font-weight:bold; border-bottom:0px">
+<h1 style="font-size:32px; font-weight:bold; border-bottom:none!important">
   🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 </h1>
 
-<h1 style="font-size:24px; font-weight:bold; border-bottom:0px">
+<h1 style="font-size:24px; font-weight:bold; border-bottom:none!important">
   🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 </h2>
 
