@@ -62,22 +62,22 @@ O que será que está oculto... mas ninguém encontrou ainda?
 <h3 style="font-size:16px; padding-left:20px">
 [+] URLs internas encontradas:
 </h3>
-<h3 style="font-size:16px; padding-left:40px">
+<p style="font-size:16px; padding-left:40px; text-align: justify;">
   - https://www.exemplo.com/sobre
-</h3>
-<h3 style="font-size:16px; padding-left:40px">
+</p>
+<p style="font-size:16px; padding-left:40px; text-align: justify;">
   - https://www.exemplo.com/contato
-</h3>
+</p>
 
 <h3 style="font-size:16px; padding-left:20px; mrgin-top:10px">
 [+] URLs externas encontradas:
 </h3>
-<h3 style="font-size:16px; padding-left:40px">
+<p style="font-size:16px; padding-left:40px; text-align: justify;">
   - https://twitter.com/exemplo
-</h3>
-<h3 style="font-size:16px; padding-left:40px">
+</p>
+<p style="font-size:16px; padding-left:40px; text-align: justify;">
   - https://linkedin.com/company/exemplo
-</h3>
+</p>
 
 
 
