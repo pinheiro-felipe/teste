@@ -34,23 +34,27 @@ O que será que está oculto... mas ninguém encontrou ainda?
   Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 </p>
 
-<p style="font-size:16px; padding-left:40px">
+<h3 style="font-size:16px; padding-left:40px">
 📁 Imports
-</p>
+</h3>
 <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder.png" alt="Imports" width="500">
 
-<p style="font-size:16px; padding-left:40px">
+<h3 style="font-size:16px; padding-left:40px">
 ⚙️ Variáveis iniciais
-</p>
+</h3>
 <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_2.png" alt="Imports" width="500">
 
-<p style="font-size:16px; padding-left:40px">
+<h3 style="font-size:16px; padding-left:40px">
 🔁 Loop
-</p>
+</h3>
 <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500">
 
-## ⏳ Execução  
-   python classificar_urls.py https://www.exemplo.com
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+⏳ Execução  
+</h2>
+<p style="font-size:16px; text-align: justify; padding-left:40px">
+  python classificar_urls.py https://www.exemplo.com
+</p>
 
 ## 🖥️ Exemplo de saída
 
