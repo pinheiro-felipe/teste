@@ -4,7 +4,7 @@
   🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 </h1>
 
-<h1 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
   🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 </h2>
 
@@ -16,7 +16,9 @@ O que será que está oculto... mas ninguém encontrou ainda?
 
 <hr>
 
-## 💡 O que esse script faz?
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+💡 O que esse script faz?
+</h2>
 
 - ✅ Acessa a URL base de um site  
 - ✅ Testa uma wordlist com possíveis caminhos secretos  
