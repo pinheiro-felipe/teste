@@ -34,20 +34,20 @@ O que será que está oculto... mas ninguém encontrou ainda?
   Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 </p>
 
-<h3 style="font-size:16px; padding-left:40px">
+<h3 style="font-size:16px; padding-left:20px">
 📁 Imports
 </h3>
-<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder.png" alt="Imports" width="500">
+<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder.png" alt="Imports" width="500" style="padding-left:20px">
 
-<h3 style="font-size:16px; padding-left:40px">
+<h3 style="font-size:16px; padding-left:20px">
 ⚙️ Variáveis iniciais
 </h3>
-<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_2.png" alt="Imports" width="500">
+<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_2.png" alt="Imports" width="500" style="padding-left:20px">
 
-<h3 style="font-size:16px; padding-left:40px">
+<h3 style="font-size:16px; padding-left:20px">
 🔁 Loop
 </h3>
-<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500">
+<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500" style="padding-left:20px">
 
 <h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
 ⏳ Execução  
@@ -56,15 +56,30 @@ O que será que está oculto... mas ninguém encontrou ainda?
   python classificar_urls.py https://www.exemplo.com
 </p>
 
-## 🖥️ Exemplo de saída
-
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+🖥️ Exemplo de saída
+</h2>
+<h3 style="font-size:16px; padding-left:20px">
 [+] URLs internas encontradas:
+</h3>
+<h3 style="font-size:16px; padding-left:40px">
   - https://www.exemplo.com/sobre
+</h3>
+<h3 style="font-size:16px; padding-left:40px">
   - https://www.exemplo.com/contato
+</h3>
 
+<h3 style="font-size:16px; padding-left:20px; mrgin-top:10px">
 [+] URLs externas encontradas:
+</h3>
+<h3 style="font-size:16px; padding-left:40px">
   - https://twitter.com/exemplo
+</h3>
+<h3 style="font-size:16px; padding-left:40px">
   - https://linkedin.com/company/exemplo
+</h3>
+
+
 
 ## 🤔 Como usar?
 
