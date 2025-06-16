@@ -17,7 +17,11 @@ O que será que está oculto... mas ninguém encontrou ainda?
 
 <p style="font-size: 12px; font-family: Arial; line-height: 1.15; border:none">
 - ✅ Acessa a URL base de um site  
+</p>
+<p style="font-size: 12px; font-family: Arial; line-height: 1.15; border:none">
 - ✅ Testa uma wordlist com possíveis caminhos secretos  
+</p>
+<p style="font-size: 12px; font-family: Arial; line-height: 1.15; border:none">
 - ✅ Mostra quais retornam código 200 (sucesso)  
 </p>
 
