@@ -19,9 +19,12 @@ O que será que está oculto... mas ninguém encontrou ainda?
 
 Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 
-- 📁 Imports  
-- ⚙️ Variáveis iniciais  
-- 🔁 Loop  
+- 📁 Imports
+  <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6de4ec500eaa9d1fdc6010573410694dc2e4c9ef/images/script_email_finder.py.png" alt="Imports" width="500">
+- ⚙️ Variáveis iniciais
+  <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6de4ec500eaa9d1fdc6010573410694dc2e4c9ef/images/script_email_finder_2.py.png" alt="Imports" width="500">
+- 🔁 Loop
+  <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6de4ec500eaa9d1fdc6010573410694dc2e4c9ef/images/script_email_finder_3.py.png" alt="Imports" width="500">
 - ⏳ Execução  
 
 ```bash
