@@ -20,7 +20,7 @@ O que será que está oculto... mas ninguém encontrou ainda?
 💡 O que esse script faz?
 </h2>
 
-<ul style="list-style:none!important; padding-left:0px; padding-left:40px">
+<ul style="list-style:none!important; padding-left:40px">
   <li>✅ Acessa a URL base de um site</li>
   <li>✅ Testa uma wordlist com possíveis caminhos secretos</li>
   <li>✅ Mostra quais retornam código 200 (sucesso)</li>
@@ -34,12 +34,20 @@ O que será que está oculto... mas ninguém encontrou ainda?
   Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 </p>
 
-- 📁 Imports
-- <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder.png" alt="Imports" width="500">
-- ⚙️ Variáveis iniciais
-- <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_2.png" alt="Imports" width="500">
-- 🔁 Loop
-- <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500">
+<p style="font-size:16px; padding-left:40px">
+📁 Imports
+</p>
+<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder.png" alt="Imports" width="500">
+
+<p style="font-size:16px; padding-left:40px">
+⚙️ Variáveis iniciais
+</p>
+<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_2.png" alt="Imports" width="500">
+
+<p style="font-size:16px; padding-left:40px">
+🔁 Loop
+</p>
+<img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500">
 
 ## ⏳ Execução  
    python classificar_urls.py https://www.exemplo.com
