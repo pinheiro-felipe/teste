@@ -1,6 +1,8 @@
 <div style="max-width: 570px; margin: auto; word-wrap: break-word; line-height: 1.5">
   
-# 🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
+<h1 style="font-size:32px; font-weight:bold; font-family:Arial, sans-serif">
+  🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
+</h1>
 
 ## 🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 
