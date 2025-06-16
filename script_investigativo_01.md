@@ -20,11 +20,12 @@ O que será que está oculto... mas ninguém encontrou ainda?
 Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 
 - 📁 Imports
-        ![Minha imagem](images/script_email_finder.py.png)
+        ![Minha imagem](https://raw.githubusercontent.com/pinheiro-felipe/teste/main/images/scritp_email_finder.py.png)
+)
 - ⚙️ Variáveis iniciais
-         ![Minha imagem](images/script_email_finder_2.py.png)
+        ![Descrição da imagem](https://raw.githubusercontent.com/pinheiro-felipe/teste/main/images/script_email_finder_2.py.png)
 - 🔁 Loop
-         ![Minha imagem](images/script_email_finder_3.py.png)
+        ![Descrição da imagem](https://raw.githubusercontent.com/pinheiro-felipe/teste/main/images/script_email_finder_3.py.png)
 - ⏳ Execução  
 
 ```bash
