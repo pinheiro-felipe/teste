@@ -26,9 +26,13 @@ O que será que está oculto... mas ninguém encontrou ainda?
   <li>✅ Mostra quais retornam código 200 (sucesso)</li>
 </ul>
 
-## 📄 Código dividido em blocos
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+📄 Código dividido em blocos
+</h2>
 
-Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
+<p style="font-size:16px;">
+  Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
+</p>
 
 - 📁 Imports
 - <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder.png" alt="Imports" width="500">
