@@ -26,9 +26,10 @@ Para facilitar a leitura, o script está separado por blocos. Assim, você pode 
 - <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_2.png" alt="Imports" width="500">
 - 🔁 Loop
 - <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500">
-- ⏳ Execução  
 
-python classificar_urls.py https://www.exemplo.com
+##⏳ Execução  
+   
+   python classificar_urls.py https://www.exemplo.com
 
 ## 🖥️ Exemplo de saída
 
