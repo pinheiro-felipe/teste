@@ -1,4 +1,5 @@
 <div style="max-width: 570px; margin: auto; word-wrap: break-word;">
+  
 # 🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 
 ## 🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
