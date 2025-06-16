@@ -62,60 +62,72 @@ O que será que está oculto... mas ninguém encontrou ainda?
 <h3 style="font-size:16px; padding-left:20px">
 [+] URLs internas encontradas:
 </h3>
-<p style="font-size:16px; padding-left:40px; text-align: justify;">
-  - https://www.exemplo.com/sobre
-</p>
-<p style="font-size:16px; padding-left:40px; text-align: justify;">
-  - https://www.exemplo.com/contato
-</p>
+<ul style="font-size:16px; list-style:none!important; padding-left:40px">
+  <li>- https://www.exemplo.com/sobre</li>
+  <li>- https://www.exemplo.com/contato</li>
+</ul>
 
 <h3 style="font-size:16px; padding-left:20px; mrgin-top:10px">
 [+] URLs externas encontradas:
 </h3>
-<p style="font-size:16px; padding-left:40px; text-align: justify;">
-  - https://twitter.com/exemplo
-</p>
-<p style="font-size:16px; padding-left:40px; text-align: justify;">
-  - https://linkedin.com/company/exemplo
-</p>
-
-
-
-## 🤔 Como usar?
-
-- ✏️ Altere o site para o alvo desejado  
-- 📃 Edite a wordlist com nomes mais prováveis  
-- ▶️ Rode e veja o que está acessível  
-
-## ❓ Por que funciona?
-
-Muitos sites deixam diretórios expostos por engano. Este script faz uma varredura rápida, simulando o trabalho de força bruta leve, e revela o que está oculto.
-
-## 🧰 Útil para
-
-- 🎯 Reconhecimento em pentests  
-- 🔍 Estudos de segurança e OSINT  
-- 🛠️ Auxiliar ferramentas que possuem scripts maiores  
-
-## 📌 Dica bônus para melhorar o script
-
-- 🏃 Use threading para acelerar a varredura  
-- 📃 Aplique wordlists profissionais (como a do SecLists)  
-- 📊 Integre com alertas visuais ou logs  
-
-## ⬇️ Quer baixar o script completo?
-
-📦 Está disponível em: [github.com/seuperfil/email-finder](https://github.com/seuperfil/email-finder)
-
----
-
-## 💾 Outros scripts investigativos
-<ul style="list-style: none; padding-left: 0;">
-- 🖼️ Baixar todas as imagens de uma página  
-- 🔌 Verificar se um site está online (healthcheck por URL)  
-- 📊 Monitorar consumo de CPU/memória com alerta por e-mail  
-- 🔗 Extrair e classificar todos os links de um site  
-- 📄 Converter arquivos PDF para texto automaticamente  
-- 🔐 Identificar portas abertas em uma faixa de IPs
+<ul style="font-size:16px; list-style:none!important; padding-left:40px">
+  <li>- https://twitter.com/exemplo</li>
+  <li>- https://linkedin.com/company/exemplo</li>
 </ul>
+
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+🤔 Como usar?
+</h2>
+<ul style="font-size:16px; list-style:none!important; padding-left:40px">
+  <li>✏️ Altere o site para o alvo desejado</li>
+  <li>📃 Edite a wordlist com nomes mais prováveis</li>
+  <li>▶️ Rode e veja o que está acessível</li>
+</ul>
+
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+❓ Por que funciona?
+</ul>
+<p style="font-size:16px; text-align: justify; padding-left:40px">
+Muitos sites deixam diretórios expostos por engano. Este script faz uma varredura rápida, simulando o trabalho de força bruta leve, e revela o que está oculto.
+</p>
+
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+🧰 Útil para
+</h2>
+<ul style="font-size:16px; list-style:none!important; padding-left:40px">
+  <li>🎯 Reconhecimento em pentests</li>
+  <li>🔍 Estudos de segurança e OSINT</li>
+  <li>🛠️ Auxiliar ferramentas que possuem scripts maiores</li>
+</ul>
+
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+📌 Dica bônus para melhorar o script
+</h2>
+<ul style="font-size:16px; list-style:none!important; padding-left:40px">
+  <li>🏃 Use threading para acelerar a varredura </li>
+  <li>📃 Aplique wordlists profissionais (como a do SecLists)</li>
+  <li>📊 Integre com alertas visuais ou logs </li>
+</ul>
+
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+⬇️ Quer baixar o script completo?
+</h2>
+<p style="font-size:16px; text-align: justify; padding-left:40px">
+📦 Está disponível em: [github.com/seuperfil/email-finder](https://github.com/seuperfil/email-finder)
+</p>
+
+<hr>
+
+<h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
+💾 Outros scripts investigativos
+</h2>
+<ul style="font-size:16px; list-style:none!important; padding-left:40px">
+  <li>🖼️ Baixar todas as imagens de uma página </li>
+  <li>🔌 Verificar se um site está online (healthcheck por URL)</li>
+  <li>📊 Monitorar consumo de CPU/memória com alerta por e-mail</li>
+  <li>🔗 Extrair e classificar todos os links de um site</li>
+  <li>📄 Converter arquivos PDF para texto automaticamente</li>
+  <li>🔐 Identificar portas abertas em uma faixa de IPs</li>
+</ul>
+
 </div>
