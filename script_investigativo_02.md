@@ -69,11 +69,12 @@ Muitos sites deixam diretórios expostos por engano. Este script faz uma varredu
 ---
 
 ## 💾 Outros scripts investigativos
-
+<ul style="list-style: none; padding-left: 0;">
 - 🖼️ Baixar todas as imagens de uma página  
 - 🔌 Verificar se um site está online (healthcheck por URL)  
 - 📊 Monitorar consumo de CPU/memória com alerta por e-mail  
 - 🔗 Extrair e classificar todos os links de um site  
 - 📄 Converter arquivos PDF para texto automaticamente  
 - 🔐 Identificar portas abertas em uma faixa de IPs
+</ul>
 </div>
