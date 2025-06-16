@@ -20,7 +20,7 @@ O que será que está oculto... mas ninguém encontrou ainda?
 Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 
 - 📁 Imports
-        ![Imports](https://raw.githubusercontent.com/pinheiro-felipe/teste/main/images/scritp_email_finder.py.png)
+        (https://raw.githubusercontent.com/pinheiro-felipe/teste/main/images/scritp_email_finder.py.png)
   
 - ⚙️ Variáveis iniciais
         ![Variáveis iniciais](https://raw.githubusercontent.com/pinheiro-felipe/teste/main/images/script_email_finder_2.py.png)
