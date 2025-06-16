@@ -1,4 +1,4 @@
-<div id="conteudo-markdown" style="max-width: 570px; margin: auto; word-wrap: break-word; line-height: 1.5; font-family:Arial, sans-serif">
+<div id="conteudo-markdown" style="max-width: 600px; margin: auto; word-wrap: break-word; line-height: 1.5; font-family:Arial, sans-serif">
   
 <h1 style="font-size:32px; font-weight:bold; border-bottom:none!important">
   🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
@@ -8,7 +8,7 @@
   🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 </h2>
 
-<p style="font-size:16px; text-align: justify;">
+<p style="font-size:16px; text-align: justify; padding-left:20px">
   Descobrir manualmente é lento e ineficiente. É como procurar uma agulha no palheiro.  
 A maioria dos sites revela mais do que deveria, se você souber onde procurar. Você precisa de um script ágil, direto e que explore caminhos comuns em segundos.  
 O que será que está oculto... mas ninguém encontrou ainda?
@@ -30,7 +30,7 @@ O que será que está oculto... mas ninguém encontrou ainda?
 📄 Código dividido em blocos
 </h2>
 
-<p style="font-size:16px; text-align: justify;">
+<p style="font-size:16px; text-align: justify; padding-left:20px">
   Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 </p>
 
