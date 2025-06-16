@@ -20,7 +20,7 @@ O que será que está oculto... mas ninguém encontrou ainda?
 💡 O que esse script faz?
 </h2>
 
-<ul style="list-style:none!important; padding-left:0px;">
+<ul style="list-style:none!important; padding-left:0px; padding-left:20px">
   <li>✅ Acessa a URL base de um site</li>
   <li>✅ Testa uma wordlist com possíveis caminhos secretos</li>
   <li>✅ Mostra quais retornam código 200 (sucesso)</li>
