@@ -1,3 +1,5 @@
+<div style="max-width: 870px; margin: auto; word-wrap: break-word;">
+  
 <h1 style="font-size: 24px; font-family: Arial; line-height: 1.15; fonte-weight:bold; border:none">
   🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 </h1>
@@ -161,3 +163,5 @@ Muitos sites deixam diretórios expostos por engano. Este script faz uma varredu
 <p style="font-size: 16px; font-family: Arial; line-height: 1.15; border:none">
 - 🔐 Identificar portas abertas em uma faixa de IPs
 </p>
+
+</div>
