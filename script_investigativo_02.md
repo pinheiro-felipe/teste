@@ -28,13 +28,10 @@ Para facilitar a leitura, o script está separado por blocos. Assim, você pode 
 - <img src="https://raw.githubusercontent.com/pinheiro-felipe/teste/6da0e70e59fae900f124e122acc27d5a22451c9a/images/script_email_finder_3.png" alt="Imports" width="500">
 - ⏳ Execução  
 
-```bash
 python classificar_urls.py https://www.exemplo.com
-```
 
 ## 🖥️ Exemplo de saída
 
-```
 [+] URLs internas encontradas:
   - https://www.exemplo.com/sobre
   - https://www.exemplo.com/contato
@@ -42,7 +39,6 @@ python classificar_urls.py https://www.exemplo.com
 [+] URLs externas encontradas:
   - https://twitter.com/exemplo
   - https://linkedin.com/company/exemplo
-```
 
 ## 🤔 Como usar?
 
