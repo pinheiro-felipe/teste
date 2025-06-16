@@ -11,12 +11,15 @@ A maioria dos sites revela mais do que deveria, se você souber onde procurar. V
 O que será que está oculto... mas ninguém encontrou ainda?
 </p>
 ---
+<h2 style="font-size: 14px; font-family: Arial; line-height: 1.15; font-weight:bold; border:none">
+  💡 O que esse script faz?
+</h2>
 
-## 💡 O que esse script faz?
-
+<p style="font-size: 12px; font-family: Arial; line-height: 1.15; border:none">
 - ✅ Acessa a URL base de um site  
 - ✅ Testa uma wordlist com possíveis caminhos secretos  
 - ✅ Mostra quais retornam código 200 (sucesso)  
+</p>
 
 ## 📄 Código dividido em blocos
 
