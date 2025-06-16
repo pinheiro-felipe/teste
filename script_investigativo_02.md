@@ -8,7 +8,7 @@
   🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 </h2>
 
-<p style="font-size:16px;">
+<p style="font-size:16px; text-align: justify;">
   Descobrir manualmente é lento e ineficiente. É como procurar uma agulha no palheiro.  
 A maioria dos sites revela mais do que deveria, se você souber onde procurar. Você precisa de um script ágil, direto e que explore caminhos comuns em segundos.  
 O que será que está oculto... mas ninguém encontrou ainda?
@@ -30,7 +30,7 @@ O que será que está oculto... mas ninguém encontrou ainda?
 📄 Código dividido em blocos
 </h2>
 
-<p style="font-size:16px;">
+<p style="font-size:16px; text-align: justify;">
   Para facilitar a leitura, o script está separado por blocos. Assim, você pode estudar trecho por trecho e adaptar com facilidade.
 </p>
 
