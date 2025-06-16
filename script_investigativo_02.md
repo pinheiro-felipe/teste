@@ -20,9 +20,11 @@ O que será que está oculto... mas ninguém encontrou ainda?
 💡 O que esse script faz?
 </h2>
 
-- ✅ Acessa a URL base de um site  
-- ✅ Testa uma wordlist com possíveis caminhos secretos  
-- ✅ Mostra quais retornam código 200 (sucesso)  
+<ul style="list-style: none; padding-left: 0;">
+  <li>✅ Acessa a URL base de um site</li>
+  <li>✅ Testa uma wordlist com possíveis caminhos secretos</li>
+  <li>✅ Mostra quais retornam código 200 (sucesso)</li>
+</ul>
 
 ## 📄 Código dividido em blocos
 
