@@ -1,7 +1,7 @@
 <div id="conteudo-markdown" style="max-width: 570px; margin: auto; word-wrap: break-word; line-height: 1.5; font-family:Arial, sans-serif">
   
 <h1 style="font-size:32px; font-weight:bold; border-bottom:none!important">
-  🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
+  🕵️ Script investigativo #01 – Investigue diretórios ocultos com Pythonhttps://github.com/pinheiro-felipe/teste/blob/main/script_investigativo_02.md
 </h1>
 
 <h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
@@ -20,7 +20,7 @@ O que será que está oculto... mas ninguém encontrou ainda?
 💡 O que esse script faz?
 </h2>
 
-<ul style="list-style: none; padding-left: 0;">
+<ul style="list-style:none; padding-left:0px;">
   <li>✅ Acessa a URL base de um site</li>
   <li>✅ Testa uma wordlist com possíveis caminhos secretos</li>
   <li>✅ Mostra quais retornam código 200 (sucesso)</li>
