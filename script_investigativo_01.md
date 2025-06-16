@@ -1,9 +1,9 @@
 <h1 style="font-size: 17px; font-family: Arial; line-height: 1.15; fonte-weight:bold">
-  # 🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
+  🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 </h1>
 
 <h2 style="font-size: 14px; font-family: Arial; line-height: 1.15; font-weight:bold">
-## 🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
+  🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 </h2>
 <p style="font-size: 12px; font-family: Arial; line-height: 1.15;">
 Descobrir manualmente é lento e ineficiente. É como procurar uma agulha no palheiro.  
