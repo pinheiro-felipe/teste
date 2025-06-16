@@ -143,21 +143,21 @@ Muitos sites deixam diretórios expostos por engano. Este script faz uma varredu
   💾 Outros scripts investigativos
 </h2>
 
-<p style="font-size: 26px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 24px; font-family: Arial; line-height: 1.15; border:none">
 - 🖼️ Baixar todas as imagens de uma página  
 </p>
-<p style="font-size: 14px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 24px; font-family: Arial; line-height: 1.15; border:none">
 - 🔌 Verificar se um site está online (healthcheck por URL)  
 </p>
-<p style="font-size: 14px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 24px; font-family: Arial; line-height: 1.15; border:none">
 - 📊 Monitorar consumo de CPU/memória com alerta por e-mail  
 </p>
-<p style="font-size: 14px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 24px; font-family: Arial; line-height: 1.15; border:none">
 - 🔗 Extrair e classificar todos os links de um site  
 </p>
-<p style="font-size: 14px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 24px; font-family: Arial; line-height: 1.15; border:none">
 - 📄 Converter arquivos PDF para texto automaticamente  
 </p>
-<p style="font-size: 14px; font-family: Arial; line-height: 1.15; border:none">
+<p style="font-size: 24px; font-family: Arial; line-height: 1.15; border:none">
 - 🔐 Identificar portas abertas em uma faixa de IPs
 </p>
