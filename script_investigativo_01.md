@@ -1,11 +1,11 @@
-<h1 style="font-size: 17px; font-family: Arial; line-height: 1.15; fonte-weight:bold">
+<h1 style="font-size: 17px; font-family: Arial; line-height: 1.15; fonte-weight:bold; border:none">
   🕵️ Script investigativo #01 – Investigue diretórios ocultos com Python
 </h1>
 
-<h2 style="font-size: 14px; font-family: Arial; line-height: 1.15; font-weight:bold">
+<h2 style="font-size: 14px; font-family: Arial; line-height: 1.15; font-weight:bold; border:none">
   🧠 Quer saber se um site está escondendo páginas ou diretórios importantes?
 </h2>
-<p style="font-size: 12px; font-family: Arial; line-height: 1.15;">
+<p style="font-size: 12px; font-family: Arial; line-height: 1.15; border:none">
 Descobrir manualmente é lento e ineficiente. É como procurar uma agulha no palheiro.  
 A maioria dos sites revela mais do que deveria, se você souber onde procurar. Você precisa de um script ágil, direto e que explore caminhos comuns em segundos.  
 O que será que está oculto... mas ninguém encontrou ainda?
