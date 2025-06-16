@@ -112,7 +112,7 @@ Muitos sites deixam diretórios expostos por engano. Este script faz uma varredu
 <h2 style="font-size:24px; font-weight:bold; border-bottom:none!important">
 ⬇️ Quer baixar o script completo?
 </h2>
-<p style="font-size:16px; text-align: justify; padding-left:40px">
+<p style="font-size:16px; text-align: left; padding-left:40px">
 📦 Está disponível em: https://github.com/seuperfil/email-finder
 </p>
 
